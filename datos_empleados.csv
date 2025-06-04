@@ -1,0 +1,101 @@
+id,empleado,area,cargo,email,fecha_nacimiento,religion,sueldo
+1,Benigno Bárcena Quintanilla,Talento Human0,Asistente de Nómina,benigno.barcena.quintanilla@empresa.com,2005-05-16,Otros,1000
+2,Ciriaco Guerra Manrique,Talento Humano,Asistente de Nómina,ciriaco.guerra.manrique@empresa.com,1998-01-15,Testigo de Jehová,1883.35
+3,Jennifer Lloret Seco,Financiero,Jefe de Bodega,jennifer.lloret.seco@empresa.com,1978-02-27,Católico,1066.33
+4,Fabiola Cintia Jove Herrera,Talento Humano,Asistente de Nómina,fabiola.cintia.jove.herrera@empresa.com,1984-11-24,Testigo de Jehová,828.31
+5,Palmira Soler Bustos,Inventario,Jefe de Bodega,palmira.soler.bustos@empresa.com,1987-02-25,Evangélico,1884.72
+6,Lupe de Amorós,Inventario,Asistente de Bodega,lupe.de.amoros@empresa.com,1998-03-03,Testigo de Jehová,1222.24
+7,Marisa Cisneros-Lumbreras,Sistemas,Analista de Sistemas,marisa.cisneros-lumbreras@empresa.com,1990-02-08,Testigo de Jehová,1848.83
+8,Ruben Borrego Cuéllar,Talento Humano,Asistente de Nómina,ruben.borrego.cuellar@empresa.com,1971-05-17,Otros,1619.13
+9,Mariana Jimena Lorenzo Pareja,Bodega,Asistente de Bodega,mariana.jimena.lorenzo.pareja@empresa.com,1981-11-28,Testigo de Jehová,986.27
+10,Amando Santiago Miró,Contabilidad,Asistente de Nómina,amando.santiago.miro@empresa.com,1985-05-27,Católico,1606.21
+11,Renata Alba-Reguera,Inventario,Asistente de Bodega,renata.alba-reguera@empresa.com,1977-10-22,Otros,334.03
+12,Curro del Cámara,Contabilidad,Asistente de Bodega,curro.del.camara@empresa.com,1986-02-14,Testigo de Jehová,1431.59
+13,Silvestre Andreu Sáez,Talento Humano,Asistente de Nómina,silvestre.andreu.saez@empresa.com,1998-09-29,Evangélico,1829.36
+14,Germán Valbuena-Andrés,Sistemas,Analista de Sistemas,german.valbuena-andres@empresa.com,1979-07-10,Católico,1758.31
+15,María Esteve Casanovas,Inventario,Asistente de Nómina,maria.esteve.casanovas@empresa.com,1968-04-15,Católico,725.72
+16,Natividad Moliner Criado,Financiero,Asistente de Nómina,natividad.moliner.criado@empresa.com,1994-01-29,Testigo de Jehová,332.71
+17,Juan Luis Milla Saez,Contabilidad,Asistente de Bodega,juan.luis.milla.saez@empresa.com,1994-02-25,Otros,1213.39
+18,Nico Ribera Nadal,Talento Humano,Asistente de Nómina,nico.ribera.nadal@empresa.com,1969-09-24,Testigo de Jehová,406.13
+19,Albano Fonseca Galan,Sistemas,Analista de Sistemas,albano.fonseca.galan@empresa.com,1979-02-04,Testigo de Jehová,1764.51
+20,Adora Mesa,Talento Humano,Asistente de Nómina,adora.mesa@empresa.com,2001-01-16,Católico,1134.91
+21,Fito Costa Jáuregui,Inventario,Asistente de Nómina,fito.costa.jauregui@empresa.com,1987-01-01,Evangélico,1266.39
+22,Luz Baños Arévalo,Contabilidad,Analista de Sistemas,luz.baños.arevalo@empresa.com,1990-08-28,Evangélico,378.44
+23,Camila Barrios-Ferrero,Inventario,Analista de Sistemas,camila.barrios-ferrero@empresa.com,1985-06-28,Otros,1528.75
+24,Isidora Navarro,Inventario,Asistente de Nómina,isidora.navarro@empresa.com,1987-11-23,Otros,564.0
+25,Olegario Peñas Villalba,Sistemas,Analista de Sistemas,olegario.peñas.villalba@empresa.com,1984-04-04,Testigo de Jehová,1287.62
+26,Susanita Flores Riba,Contabilidad,Asistente de Nómina,susanita.flores.riba@empresa.com,1995-02-15,Evangélico,717.75
+27,Sandra Carbajo-Prado,Sistemas,Analista de Sistemas,sandra.carbajo-prado@empresa.com,1978-11-10,Evangélico,1884.19
+28,Marisela Camino Zaragoza,Talento Humano,Asistente de Nómina,marisela.camino.zaragoza@empresa.com,1965-10-30,Católico,1837.67
+29,Nerea Roldan Carranza,Inventario,Jefe de Bodega,nerea.roldan.carranza@empresa.com,1970-07-31,Evangélico,1395.68
+30,Hortensia Adoración Conesa Martí,Financiero,Analista de Sistemas,hortensia.adoracion.conesa.marti@empresa.com,1995-06-08,Católico,1688.07
+31,Aureliano Norberto Rosa Coca,Financiero,Analista de Sistemas,aureliano.norberto.rosa.coca@empresa.com,1983-02-18,Católico,1174.46
+32,Victor Manuel Graciano Valero Silva,Sistemas,Analista de Sistemas,victor.manuel.graciano.valero.silva@empresa.com,1991-02-27,Católico,962.59
+33,Mariana Posada-Pedraza,Sistemas,Analista de Sistemas,mariana.posada-pedraza@empresa.com,1985-09-11,Evangélico,1328.91
+34,Maxi Guzmán Teruel,Talento Humano,Asistente de Nómina,maxi.guzman.teruel@empresa.com,1971-01-23,Otros,1984.83
+35,Flor Gimenez Coca,Contabilidad,Jefe de Bodega,flor.gimenez.coca@empresa.com,1995-02-09,Evangélico,1732.6
+36,Eusebia Pineda Rosell,Sistemas,Analista de Sistemas,eusebia.pineda.rosell@empresa.com,2001-11-28,Católico,1141.34
+37,Roxana del Lobato,Contabilidad,Analista de Sistemas,roxana.del.lobato@empresa.com,1965-11-02,Testigo de Jehová,765.72
+38,Emperatriz Ruano Céspedes,Talento Humano,Asistente de Nómina,emperatriz.ruano.cespedes@empresa.com,1984-07-31,Evangélico,1136.41
+39,Benigna Huguet Soriano,Financiero,Jefe de Bodega,benigna.huguet.soriano@empresa.com,1991-10-17,Evangélico,1900.29
+40,Efraín Ferrán-Cuéllar,Bodega,Asistente de Bodega,efrain.ferran-cuellar@empresa.com,1973-02-11,Evangélico,1317.24
+41,Almudena Perelló Correa,Bodega,Jefe de Bodega,almudena.perello.correa@empresa.com,1972-01-18,Católico,1964.14
+42,Cruz Cordero-Rodriguez,Financiero,Jefe de Bodega,cruz.cordero-rodriguez@empresa.com,1993-04-01,Testigo de Jehová,1474.1
+43,Eutimio Almeida Juliá,Financiero,Jefe de Bodega,eutimio.almeida.julia@empresa.com,1966-03-26,Otros,312.14
+44,Gervasio Artemio Muro Galiano,Financiero,Asistente de Bodega,gervasio.artemio.muro.galiano@empresa.com,1980-09-15,Otros,1979.01
+45,Mariano Mir Viña,Contabilidad,Jefe de Bodega,mariano.mir.viña@empresa.com,1999-03-19,Católico,1604.78
+46,Fernando Tomás Bello,Bodega,Asistente de Bodega,fernando.tomas.bello@empresa.com,1986-08-03,Católico,1763.9
+47,Azahara Teruel,Inventario,Analista de Sistemas,azahara.teruel@empresa.com,1999-05-28,Evangélico,1397.86
+48,Vanesa Solé Mármol,Sistemas,Analista de Sistemas,vanesa.sole.marmol@empresa.com,1983-02-17,Evangélico,1443.43
+49,Onofre Chico Valcárcel,Inventario,Asistente de Nómina,onofre.chico.valcarcel@empresa.com,1979-01-22,Otros,1004.31
+50,Aarón Palomino Andrés,Bodega,Asistente de Bodega,aaron.palomino.andres@empresa.com,1986-11-19,Evangélico,467.74
+51,Angélica del Gálvez,Talento Humano,Asistente de Nómina,angelica.del.galvez@empresa.com,1965-03-11,Evangélico,1841.97
+52,Bernabé Calatayud Sanabria,Contabilidad,Asistente de Nómina,bernabe.calatayud.sanabria@empresa.com,1985-08-17,Testigo de Jehová,1452.16
+53,Lourdes Ibarra Collado,Inventario,Asistente de Nómina,lourdes.ibarra.collado@empresa.com,1981-07-22,Testigo de Jehová,1380.14
+54,Maximiano Villa Alba,Bodega,Jefe de Bodega,maximiano.villa.alba@empresa.com,1990-02-11,Católico,1610.63
+55,Iván Teófilo Millán Águila,Contabilidad,Asistente de Nómina,ivan.teofilo.millan.aguila@empresa.com,1996-10-09,Católico,1247.29
+56,Espiridión de Tejero,Sistemas,Analista de Sistemas,espiridion.de.tejero@empresa.com,1991-07-13,Testigo de Jehová,517.08
+57,Palmira Robles Matas,Talento Humano,Asistente de Nómina,palmira.robles.matas@empresa.com,1978-01-22,Evangélico,1425.01
+58,Casemiro Jiménez Campillo,Talento Humano,Asistente de Nómina,casemiro.jimenez.campillo@empresa.com,2002-07-04,Católico,844.86
+59,Joaquina Camino Cuenca,Sistemas,Analista de Sistemas,joaquina.camino.cuenca@empresa.com,1999-10-07,Testigo de Jehová,1841.15
+60,Martina Donoso Roma,Sistemas,Analista de Sistemas,martina.donoso.roma@empresa.com,1993-05-11,Testigo de Jehová,1332.15
+61,Candelaria Quirós-Roig,Contabilidad,Jefe de Bodega,candelaria.quiros-roig@empresa.com,2001-05-27,Católico,531.81
+62,Vera del Galiano,Inventario,Analista de Sistemas,vera.del.galiano@empresa.com,1989-03-15,Otros,1899.28
+63,Osvaldo Bernad Perez,Talento Humano,Asistente de Nómina,osvaldo.bernad.perez@empresa.com,2002-01-05,Otros,864.73
+64,Marcelo Castelló Zamorano,Bodega,Jefe de Bodega,marcelo.castello.zamorano@empresa.com,1970-08-30,Evangélico,1032.28
+65,Noa Cantón Gilabert,Contabilidad,Asistente de Bodega,noa.canton.gilabert@empresa.com,1974-01-23,Católico,1910.49
+66,Carmina Anselma Morillo Prada,Bodega,Asistente de Bodega,carmina.anselma.morillo.prada@empresa.com,1978-06-24,Católico,1202.46
+67,Dafne Bonet Barriga,Sistemas,Analista de Sistemas,dafne.bonet.barriga@empresa.com,1987-02-04,Testigo de Jehová,302.48
+68,Yéssica Barroso Villanueva,Financiero,Analista de Sistemas,yessica.barroso.villanueva@empresa.com,2003-05-08,Católico,851.51
+69,Narcisa Vera Balaguer,Bodega,Asistente de Bodega,narcisa.vera.balaguer@empresa.com,1968-12-20,Evangélico,789.17
+70,Dani Rico-Mulet,Bodega,Asistente de Bodega,dani.rico-mulet@empresa.com,1975-02-15,Evangélico,999.48
+71,Emelina Castillo Revilla,Bodega,Jefe de Bodega,emelina.castillo.revilla@empresa.com,1975-04-05,Testigo de Jehová,927.01
+72,Ainoa del Salgado,Bodega,Asistente de Bodega,ainoa.del.salgado@empresa.com,1987-08-14,Católico,1140.52
+73,Aurelio Contreras Torrecilla,Bodega,Jefe de Bodega,aurelio.contreras.torrecilla@empresa.com,1996-12-18,Evangélico,1481.56
+74,Sabina Figueras Izaguirre,Talento Humano,Asistente de Nómina,sabina.figueras.izaguirre@empresa.com,1980-09-14,Otros,626.29
+75,Felicidad Alberto Barros,Contabilidad,Asistente de Bodega,felicidad.alberto.barros@empresa.com,1975-04-15,Testigo de Jehová,1630.21
+76,Hernando Pedrosa Carballo,Talento Humano,Asistente de Nómina,hernando.pedrosa.carballo@empresa.com,1990-10-30,Otros,1131.45
+77,Dionisia Alba Cal,Bodega,Asistente de Bodega,dionisia.alba.cal@empresa.com,1964-08-05,Otros,1674.99
+78,Borja Moraleda Romeu,Contabilidad,Analista de Sistemas,borja.moraleda.romeu@empresa.com,1979-11-08,Testigo de Jehová,1044.42
+79,Eliseo Mayol Pablo,Bodega,Asistente de Bodega,eliseo.mayol.pablo@empresa.com,1999-01-17,Otros,1648.21
+80,Cayetano Barco Martorell,Bodega,Jefe de Bodega,cayetano.barco.martorell@empresa.com,1964-06-18,Católico,568.66
+81,Vanesa Heredia Córdoba,Financiero,Asistente de Bodega,vanesa.heredia.cordoba@empresa.com,1973-01-24,Otros,1965.24
+82,Prudencia Dolores Navarrete Batalla,Financiero,Asistente de Bodega,prudencia.dolores.navarrete.batalla@empresa.com,1991-06-09,Católico,1188.11
+83,Bernardita Cuadrado,Contabilidad,Asistente de Nómina,bernardita.cuadrado@empresa.com,1981-11-13,Otros,1619.96
+84,Miguel Gomis Pont,Financiero,Jefe de Bodega,miguel.gomis.pont@empresa.com,1994-10-03,Otros,1271.96
+85,Nydia Rosselló,Bodega,Jefe de Bodega,nydia.rossello@empresa.com,1983-03-13,Católico,1121.81
+86,Nieves Villena,Sistemas,Analista de Sistemas,nieves.villena@empresa.com,1975-08-13,Testigo de Jehová,1602.98
+87,Marina Gallart Morera,Bodega,Jefe de Bodega,marina.gallart.morera@empresa.com,1973-02-11,Católico,1812.58
+88,Ciro Calatayud Prada,Contabilidad,Asistente de Nómina,ciro.calatayud.prada@empresa.com,1973-08-13,Testigo de Jehová,1608.2
+89,Primitiva Valentín Crespi,Sistemas,Analista de Sistemas,primitiva.valentin.crespi@empresa.com,2002-10-17,Otros,1438.83
+90,Ana Belén Melero Maza,Bodega,Jefe de Bodega,ana.belen.melero.maza@empresa.com,1965-04-03,Evangélico,328.96
+91,Nicolás Chico Larrea,Bodega,Jefe de Bodega,nicolas.chico.larrea@empresa.com,1979-09-18,Testigo de Jehová,456.15
+92,Amaya Verdú Bernad,Inventario,Jefe de Bodega,amaya.verdu.bernad@empresa.com,1995-10-17,Testigo de Jehová,1058.31
+93,Adrián Barrio Olmedo,Contabilidad,Asistente de Nómina,adrian.barrio.olmedo@empresa.com,1980-01-01,Otros,376.97
+94,María Fernanda Morillo Carrera,Talento Humano,Asistente de Nómina,maria.fernanda.morillo.carrera@empresa.com,1998-09-20,Testigo de Jehová,1462.22
+95,Gastón Ferrero Burgos,Bodega,Asistente de Bodega,gaston.ferrero.burgos@empresa.com,1969-12-26,Otros,675.32
+96,Marcelo Estevez Farré,Contabilidad,Asistente de Bodega,marcelo.estevez.farre@empresa.com,1973-08-27,Evangélico,815.5
+97,Hipólito del Miralles,Contabilidad,Jefe de Bodega,hipolito.del.miralles@empresa.com,1973-03-23,Otros,1993.03
+98,Tito Darío Santamaría Aroca,Financiero,Asistente de Nómina,tito.dario.santamaria.aroca@empresa.com,1982-05-01,Católico,1841.05
+99,Emelina Samper Quintero,Bodega,Jefe de Bodega,emelina.samper.quintero@empresa.com,1990-10-11,Evangélico,1183.07
+100,Sancho Corbacho Crespo,Financiero,Asistente de Bodega,sancho.corbacho.crespo@empresa.com,1966-07-17,Evangélico,1574.1
