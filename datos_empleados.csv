@@ -1,5 +1,5 @@
 id,empleado,area,cargo,email,fecha_nacimiento,religion,sueldo
-1,Benigno Bárcena Quintanilla,Talento Human0,Asistente de Nómina,benigno.barcena.quintanilla@empresa.com,2005-05-16,Otros,1000
+1,Benigno Bárcena Quintanilla,Talento Human0,Asistente de Nómina,,2005-05-16,Otros,1000
 2,Ciriaco Guerra Manrique,Talento Humano,Asistente de Nómina,ciriaco.guerra.manrique@empresa.com,1998-01-15,Testigo de Jehová,1883.35
 3,Jennifer Lloret Seco,Financiero,Jefe de Bodega,jennifer.lloret.seco@empresa.com,1978-02-27,Católico,1066.33
 4,Fabiola Cintia Jove Herrera,Talento Humano,Asistente de Nómina,fabiola.cintia.jove.herrera@empresa.com,1984-11-24,Testigo de Jehová,828.31
